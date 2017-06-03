@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AdSample</string>
+
+    <!-- Chartboost -->
+    <string name="chartboost_app_id">[REPLACE_CHARTBOOST_APP_ID]</string>
+    <string name="chartboost_app_signature">[REPLACE_CHARTBOOST_APP_SIGNATURE]</string>
+
+    <!-- Admob -->
+    <string name="admob_unit_id">[REPLACE_ADMOB_AD_UNIT_ID]</string>
+
+    <!-- Startapp -->
+    <string name="startapp_app_id">[REPLACE_STARTAPP_APP_ID]</string>
+
+</resources>
